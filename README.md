@@ -1,1 +1,1 @@
-# odin-recipes
+<!-- This project is the basic of html. I will demonstrate how to write out the beginning of a html file using the <!DOCTYPE html> tags. I also learned how to use comments, write a body tag, paragraph tag, head tag, and etc. I will update everything I learn as I go!-->
